@@ -1,2 +1,2 @@
 # Old-Projects
-Old projects that I did for college
+A collection of old projects that I did for college.
