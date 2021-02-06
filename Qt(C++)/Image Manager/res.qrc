@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Icones">
+        <file>addphoto.png</file>
+        <file>associar.png</file>
+        <file>add-page.png</file>
+        <file>edit.png</file>
+        <file>slideshow.png</file>
+        <file>novoalbum.png</file>
+        <file>listadetalhada.png</file>
+        <file>listasimples.png</file>
+        <file>mosaico.png</file>
+        <file>addfolder.png</file>
+        <file>pesquisar.png</file>
+    </qresource>
+</RCC>
